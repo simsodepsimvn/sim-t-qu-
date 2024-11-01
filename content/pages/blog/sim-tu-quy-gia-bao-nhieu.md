@@ -25,7 +25,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Sim Tứ Quý Giá Bao Nhiêu
-  metaDescription: lorem-ipsum
+  metaDescription: Chia sẻ góc nhìn chuyên gia về giá mua sim tứ quý
   addTitleSuffix: false
   metaTags: []
 colors: bg-dark-fg-light
