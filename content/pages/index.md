@@ -5,7 +5,7 @@ sections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: Bài viết mới nhất
       color: text-dark
       styles:
         self:
