@@ -11,7 +11,7 @@ topSections:
     subtitle: This is the subtitle
     posts: []
     showThumbnail: false
-    showExcerpt: true
+    showExcerpt: false
     showDate: true
     showAuthor: true
     variant: big-list
