@@ -3,7 +3,7 @@ type: PageLayout
 title: Home
 sections:
   - type: FeaturedItemsSection
-    subtitle: Subtitle goes here
+    subtitle: ''
     items: []
     actions: []
     elementId: ''
