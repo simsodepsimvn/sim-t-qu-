@@ -23,7 +23,7 @@ sections:
     styles:
       self:
         justifyContent: center
-slug: home
+slug: /
 seo:
   type: Seo
   metaTitle: Sim Tứ Quý
