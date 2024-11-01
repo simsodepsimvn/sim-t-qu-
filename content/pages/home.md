@@ -35,7 +35,7 @@ slug: home
 seo:
   type: Seo
   metaTitle: Sim Tứ Quý
-  metaDescription: This is the careers page built with Netlify.
+  metaDescription: Chia sẻ kiến thức về dòng sim tứ quý
   metaTags: []
 isDraft: false
 ---
