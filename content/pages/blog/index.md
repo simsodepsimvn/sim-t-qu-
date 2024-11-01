@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Sim Tứ Quý Giá Bao Nhiêu
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
