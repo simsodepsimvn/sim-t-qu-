@@ -12,8 +12,8 @@ topSections:
     posts: []
     showThumbnail: false
     showExcerpt: false
-    showDate: true
-    showAuthor: true
+    showDate: false
+    showAuthor: false
     variant: big-list
     colors: bg-light-fg-dark
     styles:
