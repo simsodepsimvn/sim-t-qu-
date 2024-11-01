@@ -16,19 +16,6 @@ seo:
   type: Seo
 type: PostFeedLayout
 bottomSections: []
-postFeed:
-  type: PagedPostsSection
-  title: null
-  subtitle: null
-  showThumbnail: true
-  showExcerpt: true
-  showDate: true
-  showAuthor: true
-  actions: []
-  elementId: null
-  variant: three-col-grid
-  colors: bg-light-fg-dark
-  hoverEffect: move-up
 ---
 # Sim Tứ Quý Giá Bao Nhiêu? Bật Mí Cách Chọn Sim Tứ Quý Đẹp, Hợp Phong Thủy
 
