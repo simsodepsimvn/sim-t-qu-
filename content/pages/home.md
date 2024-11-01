@@ -11,7 +11,7 @@ sections:
         self:
           textAlign: center
     recentCount: 4
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: true
     showDate: true
     showAuthor: true
