@@ -2,23 +2,6 @@
 type: PageLayout
 title: Home
 sections:
-  - type: FeaturedItemsSection
-    subtitle: ''
-    items: []
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: ImageGallerySection
     subtitle: Award winning enterprises trust us
     images:
