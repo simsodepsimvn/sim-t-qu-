@@ -3,29 +3,7 @@ title: Blog
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: false
-topSections:
-  - title:
-      text: Sim Tứ Quý Giá Bao Nhiêu
-      color: text-dark
-      type: TitleBlock
-    subtitle: This is the subtitle
-    posts: []
-    showThumbnail: false
-    showExcerpt: false
-    showDate: false
-    showAuthor: false
-    variant: big-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+topSections: []
 styles:
   title:
     textAlign: center
