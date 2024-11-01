@@ -24,7 +24,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Sim Tứ Quý Giá Bao Nhiêu
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
