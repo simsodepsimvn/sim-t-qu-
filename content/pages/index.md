@@ -6,31 +6,6 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/icon2.svg
-          altText: Placeholder image
-          elementId: ''
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-      - type: FeaturedItem
         title: 200%
         subtitle: Faster
         text: >-
