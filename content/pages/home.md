@@ -34,7 +34,7 @@ sections:
 slug: home
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
+  metaTitle: Sim Tứ Quý
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
 isDraft: false
