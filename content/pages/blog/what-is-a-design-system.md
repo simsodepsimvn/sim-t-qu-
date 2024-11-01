@@ -49,7 +49,7 @@ content: >-
   justo.
 bottomSections: []
 isFeatured: true
-isDraft: false
+isDraft: true
 seo:
   metaTitle: What is a Design System
   metaDescription: You can add the excerpt and main keywords of your blog post here.
