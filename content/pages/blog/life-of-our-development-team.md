@@ -24,7 +24,7 @@ author: content/data/person2.json
 styles:
   self:
     flexDirection: col
-isFeatured: false
+isFeatured: true
 isDraft: true
 ---
 
