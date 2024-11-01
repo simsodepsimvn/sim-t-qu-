@@ -5,14 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "Chia sẻ kiến thức về dòng sim tứ quý\n",
-    "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
